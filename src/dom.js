@@ -106,9 +106,7 @@ window.dom = {
         node.removeEventListener(eventName, fn)
     },
     find(selector, scope) {
-        //scope:范围
-        //如果有范围，就在范围里找，没有范围，就在document里找
-        return (scope || document).querySelector(selector)[0]
+        return (scope || document).querySelectorAll(selector)
     },
     parent(node) {
         return node.parentNode
