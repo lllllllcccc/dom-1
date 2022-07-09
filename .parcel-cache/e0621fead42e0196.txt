@@ -1,0 +1,9 @@
+8
+20D:\jirengu\dom-1\src133016600837839166 1
+21D:\jirengu\dom-1\dist133016614196963133 1
+28D:\jirengu\dom-1\src\main.js133016581370424489 0
+34D:\jirengu\dom-1\package-lock.json133016587114524747 0
+32D:\jirengu\dom-1\dist\index.html133016614196953450 0
+43D:\jirengu\dom-1\dist\index.de158e3a.js.map133016614048578445 0
+31D:\jirengu\dom-1\src\index.html133016614195887183 0
+39D:\jirengu\dom-1\dist\index.de158e3a.js133016614048548219 0
